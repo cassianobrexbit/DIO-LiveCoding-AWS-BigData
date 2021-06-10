@@ -22,7 +22,7 @@ Neste repositório há os arquivos de configuração e execução de análise de
    * Access Keys - Create new access key
    * Fazer download - única chance de visualizar
 * Ambiente linux
-   * Criar ambiente virtual python: _virtualenv --python=python3.7 venv_diolive_
+   * Criar ambiente virtual python: _virtualenv --python=python3.6 venv_diolive_
    * Acessar com o vs code
 * Instalar vscode no Ubuntu
    *  code .
